@@ -8,4 +8,4 @@ Aplicação desenvolvida durante o Next Level Week da [Rocketseat](https://githu
 
 - - -
 
-Acesse e teste a aplicação aqui: [purplenotes.vercel.app](https://https://purplenotes-psi.vercel.app)
+Acesse e teste a aplicação aqui: [purplenotes-psi.vercel.app](https://https://purplenotes-psi.vercel.app)
